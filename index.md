@@ -48,7 +48,7 @@ layout: default
 
   ### Competition
   * **🥈 Second prize in the [CCL 2025](http://cips-cl.org/static/CCL2025/cclEval/taskResults/index.html) Task2: The Third Chinese Frame Semantic Parsing** <br>
-    *2025.08*
+    *2025.08* [AWARD](assets/img/2025cclcfsp.pdf)
   * **🏆 First prize in the [CCL 2024](http://cips-cl.org/static/CCL2024/cclEval/taskEvaluation/index.html) Task1: The Second Chinese Frame Semantic Parsing** <br>
     *Open Track* <br>
     *2024.07*<br>
