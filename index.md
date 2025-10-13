@@ -47,12 +47,12 @@ layout: default
     [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](http://jcip.cipsc.org.cn/CN/Y2020/V34/I4/10)
 
   ### Competition
-  * **🥈 Second prize in the [CCL 2025](http://cips-cl.org/static/CCL2025/cclEval/taskResults/index.html) Task2: The Third Chinese Frame Semantic Parsing** <br>
-    *2025.08* [AWARD](assets/img/2025cclcfsp.pdf)
-  * **🏆 First prize in the [CCL 2024](http://cips-cl.org/static/CCL2024/cclEval/taskEvaluation/index.html) Task1: The Second Chinese Frame Semantic Parsing** <br>
+  * **🥈 [Second prize](assets/img/2025cclcfsp.pdf) in the [CCL 2025](http://cips-cl.org/static/CCL2025/cclEval/taskResults/index.html) Task2: The Third Chinese Frame Semantic Parsing** <br>
+    *2025.08* 
+  * **🏆 [First prize](assets/img/2024cclcfsp.pdf) in the [CCL 2024](http://cips-cl.org/static/CCL2024/cclEval/taskEvaluation/index.html) Task1: The Second Chinese Frame Semantic Parsing** <br>
     *Open Track* <br>
     *2024.07*<br>
-  * **🥉 Third prize in the [CCL 2023](http://cips-cl.org/static/CCL2023/cclEval/taskResults/index.html) Task3: Chinese Frame Semantic Parsing** <br>
+  * **🥉 [Third prize](assets/img/2023cclcfsp.pdf) in the [CCL 2023](http://cips-cl.org/static/CCL2023/cclEval/taskResults/index.html) Task3: Chinese Frame Semantic Parsing** <br>
     *2023.08*
 
   ### Education
