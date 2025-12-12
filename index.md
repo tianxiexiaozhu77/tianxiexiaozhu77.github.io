@@ -11,16 +11,16 @@ layout: default
 
 
 
-  <!-- ### Publications
+  <!-- <!-- ### Publications -->
 
-  * **Annotation Error Detection in Painstakingly Annotated Data: Part-of-Speech Tagging as a Case Study** <br>
-    *__Yahui Liu__, Zhenghua Li, Chen Gong, Shilin Zhou, Min Zhang* <br>
-    **ESWA 2025 (SCI Q1, 中科院1区)** <br>
+  * **I haven’t published any papers yet.** <br>
+    <!-- *__Yahui Liu__, Zhenghua Li, Chen Gong, Shilin Zhou, Min Zhang* <br> -->
+    <!-- **ESWA 2025 (SCI Q1, 中科院1区)** <br>
     [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://www.sciencedirect.com/science/article/pii/S0957417425019931)
     [![bib](https://img.shields.io/badge/bib-68b88e.svg?style=flat)](https://www.sciencedirect.com/science/article/pii/S0957417425019931?via%3Dihub)
-    [![github](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/POS_AED.git)
+    [![github](https://img.shields.io/badge/code-68b88e.svg?style=flat&logo=github)](https://github.com/yahui19960717/POS_AED.git) -->
 
-  * **System Report for CCL24-Eval Task 1: Leveraging LLMs for Chinese Frame Semantic Parsing** <br>
+  <!-- * **System Report for CCL24-Eval Task 1: Leveraging LLMs for Chinese Frame Semantic Parsing** <br>
     *__Yahui Liu__, Chen Gong, Min Zhang* <br>
     **CCL 2024** <br>
     [![paper](https://img.shields.io/badge/paper-68b88e.svg?style=flat)](https://aclanthology.org/2024.ccl-3.3.pdf)
@@ -53,13 +53,13 @@ layout: default
     *Open Track* <br>
     *2024.07*<br>
   * **🥉 [Third prize](assets/img/2023cclcfsp.pdf) in the [CCL 2023](http://cips-cl.org/static/CCL2023/cclEval/taskResults/index.html) Task3: Chinese Frame Semantic Parsing** <br>
-    *2023.08*
+    *2023.08* -->
 
-  ### Education
+  <!-- ### Education
 
   * **PHD student at Soochow University, co-advised by Prof. Zhenghua Li and Prof. Min Zhang**  <br>
     *2020-present*
   * **M.S. student at Soochow University, co-advised by Prof. Zhenghua Li and Prof. Min Zhang**  <br>
-    *2018-2020* -->
+    *2018-2020* --> -->
 
 
