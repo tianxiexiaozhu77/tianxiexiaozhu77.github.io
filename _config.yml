@@ -10,13 +10,13 @@ plugins:
 
 keywords: minimal academic
 description:
-  PhD student [@SUDA-HLT](http://hlt.suda.edu.cn), Soochow University
-canonical: https://yahui19960717.github.io/
+  Zhang Jianxin, Ph.D. Candidate (Extended Year 6), School of Computer Science and Technology, Soochow University
+canonical: https://tianxiexiaozhu77.github.io/
 
 semantic_scholar: https://www.semanticscholar.org/me/library/all
 google_scholar: https://scholar.google.com.hk/citations?hl=zh-CN&user=5ru5DOEAAAAJ
 cv_link: ./assets/files/CV_lyh_20250807.pdf
-github_link: https://github.com/yahui19960717
+github_link: https://github.com/tianxiexiaozhu77
 # arxiv_link: 
 affiliation_link: https://www.suda.edu.cn
 

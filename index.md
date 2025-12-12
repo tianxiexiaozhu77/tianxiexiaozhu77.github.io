@@ -2,16 +2,16 @@
 layout: default
 ---
 
-👋 Hi, my name is **Yahui Liu (刘亚慧)**. 
-- 🎓 I’m currently a fifth-year PhD student at [SUDA-HLT](https://github.com/SUDA-LA) .
+👋 Hi, my name is **Jianxin Zhang (张建新)**. 
+- 🎓 I’m currently a sixth-year PhD student at [OpenNLG](https://opennlg.cn/) .
 - 🌱 I’m an NLPer.
-- 👨‍🏫 I'm co-advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli/) and [Prof. Min Zhang](https://zhangminsuda.github.io/cn_homepage/).
-- 🧐 My main research interests include syntax, semantics, part-of-speech and related areas.
+- 👨‍🏫 I'm co-advised by [Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://zhangminsuda.github.io/cn_homepage/).
+- 🧐 My main research interests in-context learning.
 
 
 
 
-  ### Publications
+  <!-- ### Publications
 
   * **Annotation Error Detection in Painstakingly Annotated Data: Part-of-Speech Tagging as a Case Study** <br>
     *__Yahui Liu__, Zhenghua Li, Chen Gong, Shilin Zhou, Min Zhang* <br>
@@ -60,6 +60,6 @@ layout: default
   * **PHD student at Soochow University, co-advised by Prof. Zhenghua Li and Prof. Min Zhang**  <br>
     *2020-present*
   * **M.S. student at Soochow University, co-advised by Prof. Zhenghua Li and Prof. Min Zhang**  <br>
-    *2018-2020*
+    *2018-2020* -->
 
 
